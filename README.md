@@ -62,3 +62,4 @@ SRR5836475	|ICM	|1456	|630	|9.08%|
 ![218758954-b50a8bd6-057c-4a48-95c7-efbd18c4828b](https://github.com/user-attachments/assets/5ab142db-7081-4103-ad51-371d392912ce)
 
 #### DMR и DMC.
+[Файлы](https://drive.google.com/drive/folders/1ykl4lFk3cMxLaCQNrtIG2eYLAuOhWkK2?usp=sharing)
